@@ -1,2 +1,2 @@
 # Analog_Clock
-The Deployment Link will be- https://yashraj176.github.io/yashclock/
+The Deployment Link is- https://yashraj176.github.io/yashclock/

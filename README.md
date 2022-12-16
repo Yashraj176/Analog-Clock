@@ -1,2 +1,2 @@
 # yashclock
-The Deployment Link will be- https://github.com/Yashraj176/yashclock/deployments
+The Deployment Link will be- https://yashraj176.github.io/yashclock/
